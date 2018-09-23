@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Tazón de frutas de temporada",
+    "desc": "Papaya, sandía, melón, alguna fruta de la estación o mixto",
+    "prize":"334000"
+  },
+  {
+    "name": "Huevos estrallados rancheros",
+    "desc": "Tortilla de maíz con frijoles refritos y dos huevos fritos bañados con salsa de jitomate",
+    "prize":"4726000"
+  },
+  {
+    "name": "Huevos al gusto",
+    "desc": "Huevos sencillos, revueltos con jamón, tocino, a la mexicana o con chorizo, estrellados o divorciados, todos los acompañamos con frijoles refritos negros",
+    "prize":"6108000"
+  },
+  {
+    "name": "Omelette Chicago",
+    "desc": "Preparado con salchica americana, jamón York, tocino canadiense y tocino de cerdo",
+    "prize":"15284000"
+  }
+]

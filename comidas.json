@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Enchiladas suizas",
+        "desc": "Rellanas de pollo o queso, ba\u00f1adas en salsa verde y gratinadas con queso manchego",
+        "prize": "334000"
+    },
+    {
+        "name": "Ensalada Cesar",
+        "desc": "Cama de lechuga, pechuga de pollo, aderezo cesar, queso parmesano",
+        "prize": "4726000"
+    },
+    {
+        "name": "Panini Chicken",
+        "desc": "Pollo, queso gouda, philadelphia y lechuga",
+        "prize": "6108000"
+    },
+    {
+        "name": "Crunchy wrap",
+        "desc": "Relleno de camaron, pollo empanizado, arroz yakimeshi, lechuga, tomate, aguacate, cebolla morada, ba\u00f1ado en aderezo hot crunchy especial",
+        "prize": "15284000"
+    },
+    {
+        "name": "ovti",
+        "desc": "fnbsdfskjdj",
+        "prize": "12"
+    }
+]

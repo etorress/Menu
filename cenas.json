@@ -1,0 +1,22 @@
+[
+  {
+    "name":"Boca burger",
+    "desc":"Delicioso jamón de pavo y crujiente tocino y chile toreado, bañado en aderezo del chef",
+    "prize":"334000"
+  },
+  {
+    "name":"Cornejo roll",
+    "desc":"Philadelphia, pepino y aguacate por dentro, ensalada tampico encima, top de aguacate, camarones spicey, bañado en salsa anguila",
+    "prize":"4726000"
+  },
+  {
+    "name":"Red roll",
+    "desc":"Camaron, top de tampico, chipotle y salsa spicey y empanizado spicey",
+    "prize":"6108000"
+  },
+  {
+    "name":"Hawaiian burger",
+    "desc":"Delicioso jamón de pavo, corte de piña, con aderezo del chef",
+    "prize":"15284000"
+  }
+]

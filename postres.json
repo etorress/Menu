@@ -1,0 +1,22 @@
+[
+  {
+    "name":"Pastel de chocolate",
+    "desc":"Relleno de crema de chocolate, cubierto de chocolate semi-amargo",
+    "prize":"334000"
+  },
+
+  {
+    "name":"Gelatina de mazapan",
+    "desc":"Hecho con mazapan 100% mexicano acompañado de fresa y mora azul",
+    "prize":"4726000"
+  },
+  {
+    "name":"Pastel de elote",
+    "desc":"Bañado con crema inglesa",
+    "prize":"6108000"},
+  {
+    "name":"Ferrero",
+    "desc":"Mousse de chocolate con crujiente de avellana, chocolate y biscocho de vainilla",
+    "prize":"15284000"
+  }
+]
